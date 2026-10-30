@@ -1,7 +1,7 @@
 {
-  "name": "NutriVelo Pro",
+  "name": "NutriVelo Pro 3",
   "short_name": "NutriVelo",
-  "description": "Suivi nutritionnel quotidien pour cycliste",
+  "description": "Suivi nutritionnel cycliste avec repas, multi-entraînements et écarts",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
