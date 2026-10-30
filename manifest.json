@@ -1,24 +1,10 @@
 {
-  "name": "NutriVelo Pro 3",
+  "name": "NutriVelo Pro 4",
   "short_name": "NutriVelo",
-  "description": "Suivi nutritionnel cycliste avec repas, multi-entraînements et écarts",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#07101c",
-  "theme_color": "#0b1220",
-  "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
+  "background_color": "#07111e",
+  "theme_color": "#07111e",
+  "icons": []
 }
